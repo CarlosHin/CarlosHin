@@ -1,7 +1,6 @@
 - 👋 Hi, I’m Carlos Hinojosa
 - 👀 I’m interested in Frontend development and web3
 - 🌱 I’m currently learning Solidity
-- 💞️ I’m looking to collaborate on Web3
 - 📫 How to reach me carloshin98@gmail.com
 
 <!---
